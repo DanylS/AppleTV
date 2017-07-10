@@ -1,0 +1,18 @@
+<document>
+   <menuBarTemplate>
+      <menuBar>
+         <menuItem id="navigation_hot" data-identifier="hot" onselect="getDocument('templates/stuffTemplate.xml')">
+            <title>À la une</title>
+         </menuItem>
+         <menuItem id="navigation_topics" data-identifier="topics" onselect="getDocument('templates/stuffTemplate.xml')">
+            <title>Thèmes</title>
+         </menuItem>
+         <menuItem id="navigation_search" data-identifier="search" onselect="getDocument('templates/searchTemplate.xml')">
+            <title>Recherche</title>
+         </menuItem>
+         <menuItem id="navigation_about" data-identifier="about" onselect="getDocument('templates/stuffTemplate.xml')">
+            <title>À propos</title>
+         </menuItem>
+      </menuBar>
+   </menuBarTemplate>
+</document>

@@ -1,0 +1,524 @@
+{
+    "product" :[
+                {
+                "id": "0",
+                "name": "Android",
+                "image": "http://danyl.io/POC%20-%20Store/product/android.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Samsung",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "1",
+                "name": "Chip",
+                "image": "http://danyl.io/POC%20-%20Store/product/chip.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Intel",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "2",
+                "name": "Cooler",
+                "image": "http://danyl.io/POC%20-%20Store/product/cooler.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "Master",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "3",
+                "name": "Desktop",
+                "image": "http://danyl.io/POC%20-%20Store/product/desktop.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Dell",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "4",
+                "name": "DVI",
+                "image": "http://danyl.io/POC%20-%20Store/product/dvi.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Connectique",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "5",
+                "name": "Earphones",
+                "image": "http://danyl.io/POC%20-%20Store/product/earphones.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "BeatsByDre",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "6",
+                "name": "Game Boy",
+                "image": "http://danyl.io/POC%20-%20Store/product/gameboy.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Nintendo",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "7",
+                "name": "Gamecube",
+                "image": "http://danyl.io/POC%20-%20Store/product/gamecube.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Nintendo",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "8",
+                "name": "HDD",
+                "image": "http://danyl.io/POC%20-%20Store/product/hdd.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "WD",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "9",
+                "name": "HDMI",
+                "image": "http://danyl.io/POC%20-%20Store/product/hdmi.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Connectique",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "10",
+                "name": "Headphones",
+                "image": "http://danyl.io/POC%20-%20Store/product/headphones.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "BeatsByDre",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "11",
+                "name": "iMac",
+                "image": "http://danyl.io/POC%20-%20Store/product/imac.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Apple",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "12",
+                "name": "iPad",
+                "image": "http://danyl.io/POC%20-%20Store/product/ipad.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "Apple",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "13",
+                "name": "iPhone",
+                "image": "http://danyl.io/POC%20-%20Store/product/iphone.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Apple",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "14",
+                "name": "iPod",
+                "image": "http://danyl.io/POC%20-%20Store/product/ipod.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Apple",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "15",
+                "name": "Prise Jack",
+                "image": "http://danyl.io/POC%20-%20Store/product/jack.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Connectique",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "16",
+                "name": "Joystick",
+                "image": "http://danyl.io/POC%20-%20Store/product/joystick.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Controller",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "17",
+                "name": "Cable Lightning",
+                "image": "http://danyl.io/POC%20-%20Store/product/lightning-cable.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "Apple",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "18",
+                "name": "Mac Mini ",
+                "image": "http://danyl.io/POC%20-%20Store/product/mac-mini.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Apple",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "19",
+                "name": "Macbook Pro",
+                "image": "http://danyl.io/POC%20-%20Store/product/macbook.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Apple",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "20",
+                "name": "Macintosh",
+                "image": "http://danyl.io/POC%20-%20Store/product/macintosh.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Apple",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "21",
+                "name": "MagSafe",
+                "image": "http://danyl.io/POC%20-%20Store/product/magsafe.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Apple",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "22",
+                "name": "Microphone",
+                "image": "http://danyl.io/POC%20-%20Store/product/microphone.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Controller",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "23",
+                "name": "Monitor",
+                "image": "http://danyl.io/POC%20-%20Store/product/monitor.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "Controller",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "24",
+                "name": "Motherboard",
+                "image": "http://danyl.io/POC%20-%20Store/product/motherboard.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "Controller",
+                "status": "Asus",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "25",
+                "name": "Motorola 360",
+                "image": "http://danyl.io/POC%20-%20Store/product/motorola.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Motorola",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "26",
+                "name": "Mouse",
+                "image": "http://danyl.io/POC%20-%20Store/product/mouse.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Razer",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "27",
+                "name": "Nintendo NES",
+                "image": "http://danyl.io/POC%20-%20Store/product/nes.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Nintendo",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "28",
+                "name": "Nintendo DS",
+                "image": "http://danyl.io/POC%20-%20Store/product/nintendods.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Nintendo",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "29",
+                "name": "Old Tv",
+                "image": "http://danyl.io/POC%20-%20Store/product/old-tv.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Controller",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "30",
+                "name": "Printer",
+                "image": "http://danyl.io/POC%20-%20Store/product/printer.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "HP",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "31",
+                "name": "Projector",
+                "image": "http://danyl.io/POC%20-%20Store/product/projector.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Phillips",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "32",
+                "name": "PS1",
+                "image": "http://danyl.io/POC%20-%20Store/product/ps1.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "SONY",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "33",
+                "name": "PS4",
+                "image": "http://danyl.io/POC%20-%20Store/product/ps4.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "SONY",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "34",
+                "name": "PSP",
+                "image": "http://danyl.io/POC%20-%20Store/product/psp.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "SONY",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "35",
+                "name": "RAM Memory",
+                "image": "http://danyl.io/POC%20-%20Store/product/ram-memory.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "G-Skill",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "36",
+                "name": "SATA",
+                "image": "http://danyl.io/POC%20-%20Store/product/sata.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Connectique",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "37",
+                "name": "Server",
+                "image": "http://danyl.io/POC%20-%20Store/product/server.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Controller",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "38",
+                "name": "Smart TV",
+                "image": "http://danyl.io/POC%20-%20Store/product/smart-tv.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Samsung",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "39",
+                "name": "Smartwatch",
+                "image": "http://danyl.io/POC%20-%20Store/product/smartwatch.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Samsung",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "40",
+                "name": "Sound Card",
+                "image": "http://danyl.io/POC%20-%20Store/product/sound-card.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Controller",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "41",
+                "name": "SSD",
+                "image": "http://danyl.io/POC%20-%20Store/product/ssd.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Controller",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "42",
+                "name": "Manette Super Nintendo",
+                "image": "http://danyl.io/POC%20-%20Store/product/supernintendo_controller.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Nintendo",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "43",
+                "name": "Nintendo Switch",
+                "image": "http://danyl.io/POC%20-%20Store/product/switch.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Nintendo",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "44",
+                "name": "Television",
+                "image": "http://danyl.io/POC%20-%20Store/product/television.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Samsung",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "45",
+                "name": "Type Writer",
+                "image": "http://danyl.io/POC%20-%20Store/product/type-writer.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Controller",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "46",
+                "name": "USB",
+                "image": "http://danyl.io/POC%20-%20Store/product/usb.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Connectique",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "47",
+                "name": "Video Card",
+                "image": "http://danyl.io/POC%20-%20Store/product/video-card.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "brand" : "Controller",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "48",
+                "name": "Nintendo Wii",
+                "image": "http://danyl.io/POC%20-%20Store/product/wii.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Nintendo",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "49",
+                "name": "Manette XBOX ONE",
+                "image": "http://danyl.io/POC%20-%20Store/product/xbox-controller.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Microsoft",
+                "status": "Hors stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "50",
+                "name": "XBOX ONE",
+                "image": "http://danyl.io/POC%20-%20Store/product/xbox-one.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner3.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner1.png",
+                "brand" : "Microsoft",
+                "status": "Promo",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                },
+                {
+                "id": "51",
+                "name": "ISO",
+                "image": "http://danyl.io/POC%20-%20Store/product/ISO.png",
+                "banner" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "carousel" : "http://danyl.io/POC%20-%20Store/product/carousel/banner2.png",
+                "brand" : "Windows",
+                "status": "Hors Stock",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod consectetur dapibus. Quisque sagittis ultricies vestibulum. Vivamus in elit lacus. Nullam pharetra mi id odio pharetra pharetra nec eu est. Aenean a arcu nulla. Nulla ac malesuada ligula. Pellentesque rhoncus efficitur dui, sed volutpat libero rhoncus ac. Etiam pretium mauris dolor, eget blandit lorem cursus sit amet."
+                }
+            ]
+}

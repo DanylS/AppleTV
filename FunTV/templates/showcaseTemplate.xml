@@ -1,0 +1,42 @@
+<document>
+   <showcaseTemplate>
+        <background>
+            <img src="https://i.ytimg.com/vi/796MPAeklI4/maxresdefault.jpg" />
+        </background>
+        <banner>
+            <title>Titre</title>
+            <row>
+                <button>
+                   <text>Bouton 1</text>
+                </button>
+                <button>
+                   <text>Bouton 2</text>
+                </button>
+            </row>
+        </banner>
+        <carousel>
+            <section>
+                 <lockup onselect="getDocument('templates/productsTemplate.tvml')">
+                    <img src="http://www.sii.fr/pfw_files/cma/logos/logo.png" width="200" height="131" />
+                    <title>Products</title>
+                </lockup>
+				<lockup onselect="getDocument('templates/mainTemplate.xml')">
+					<img src="http://www.sii.fr/pfw_files/cma/logos/logo.png" width="200" height="131" />
+					<title>Main</title>
+				</lockup>
+				<lockup onselect="getDocument('templates/menuTemplate.xml')">
+					<img src="http://www.sii.fr/pfw_files/cma/logos/logo.png" width="200" height="131" />
+					<title>Menu</title>
+				</lockup>
+				<lockup onselect="getDocument('templates/stuffTemplate.xml')">
+					<img src="http://www.sii.fr/pfw_files/cma/logos/logo.png" width="200" height="131" />
+					<title>Stuff</title>
+				</lockup>
+				<lockup onselect="getDocument('templates/searchTemplate.xml')">
+					<img src="http://www.sii.fr/pfw_files/cma/logos/logo.png" width="200" height="131" />
+					<title>Search</title>
+				</lockup>
+            </section>
+        </carousel>
+    </showcaseTemplate>
+</document>

@@ -1,0 +1,20 @@
+<document>
+    <mainTemplate>
+      <background>
+         <img src="https://i.ytimg.com/vi/796MPAeklI4/maxresdefault.jpg" />
+      </background>
+      <menuBar>
+         <section>
+            <menuItem onselect="getDocument('templates/stuffTemplate.xml')">
+               <title>OPTION 1</title>
+            </menuItem>
+            <menuItem onselect="getDocument('templates/stuffTemplate.xml')">
+               <title>OPTION 2</title>
+            </menuItem>
+            <menuItem onselect="getDocument('templates/stuffTemplate.xml')">
+               <title>OPTION 3</title>
+            </menuItem>
+         </section>
+      </menuBar>
+   </mainTemplate>
+</document>

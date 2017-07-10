@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8BD161B61F0998DF00839BAD /* product.json in Resources */ = {isa = PBXBuildFile; fileRef = 8BD161B51F0998DF00839BAD /* product.json */; };
+		C24AFD961EEA9511008B9904 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24AFD951EEA9511008B9904 /* AppDelegate.swift */; };
+		C24AFD9A1EEA9511008B9904 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C24AFD991EEA9511008B9904 /* Assets.xcassets */; };
+		C27050C31EEA959B0005AB17 /* searchTemplate.xml in Resources */ = {isa = PBXBuildFile; fileRef = C27050C21EEA959B0005AB17 /* searchTemplate.xml */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8BD161B51F0998DF00839BAD /* product.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = product.json; sourceTree = "<group>"; };
+		C24AFD921EEA9511008B9904 /* FunTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C24AFD951EEA9511008B9904 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C24AFD981EEA9511008B9904 /* application.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = application.js; sourceTree = "<group>"; };
+		C24AFD991EEA9511008B9904 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C24AFD9B1EEA9511008B9904 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C27050C21EEA959B0005AB17 /* searchTemplate.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = searchTemplate.xml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C24AFD8F1EEA9511008B9904 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C24AFD891EEA9511008B9904 = {
+			isa = PBXGroup;
+			children = (
+				C24AFD941EEA9511008B9904 /* FunTV */,
+				C24AFD931EEA9511008B9904 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C24AFD931EEA9511008B9904 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C24AFD921EEA9511008B9904 /* FunTV.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C24AFD941EEA9511008B9904 /* FunTV */ = {
+			isa = PBXGroup;
+			children = (
+				C24AFD951EEA9511008B9904 /* AppDelegate.swift */,
+				C24AFD991EEA9511008B9904 /* Assets.xcassets */,
+				C24AFD971EEA9511008B9904 /* Supporting Files */,
+				8BD161B51F0998DF00839BAD /* product.json */,
+				C24AFD9B1EEA9511008B9904 /* Info.plist */,
+			);
+			path = FunTV;
+			sourceTree = "<group>";
+		};
+		C24AFD971EEA9511008B9904 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C27050C11EEA959B0005AB17 /* templates */,
+				C24AFD981EEA9511008B9904 /* application.js */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C27050C11EEA959B0005AB17 /* templates */ = {
+			isa = PBXGroup;
+			children = (
+				C27050C21EEA959B0005AB17 /* searchTemplate.xml */,
+			);
+			path = templates;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C24AFD911EEA9511008B9904 /* FunTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C24AFD9E1EEA9511008B9904 /* Build configuration list for PBXNativeTarget "FunTV" */;
+			buildPhases = (
+				C24AFD8E1EEA9511008B9904 /* Sources */,
+				C24AFD8F1EEA9511008B9904 /* Frameworks */,
+				C24AFD901EEA9511008B9904 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FunTV;
+			productName = FunTV;
+			productReference = C24AFD921EEA9511008B9904 /* FunTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C24AFD8A1EEA9511008B9904 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = SII;
+				TargetAttributes = {
+					C24AFD911EEA9511008B9904 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 537MQ42B4F;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C24AFD8D1EEA9511008B9904 /* Build configuration list for PBXProject "FunTV" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C24AFD891EEA9511008B9904;
+			productRefGroup = C24AFD931EEA9511008B9904 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C24AFD911EEA9511008B9904 /* FunTV */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C24AFD901EEA9511008B9904 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C24AFD9A1EEA9511008B9904 /* Assets.xcassets in Resources */,
+				C27050C31EEA959B0005AB17 /* searchTemplate.xml in Resources */,
+				8BD161B61F0998DF00839BAD /* product.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C24AFD8E1EEA9511008B9904 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C24AFD961EEA9511008B9904 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C24AFD9C1EEA9511008B9904 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = appletvos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 10.2;
+			};
+			name = Debug;
+		};
+		C24AFD9D1EEA9511008B9904 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = appletvos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 10.2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C24AFD9F1EEA9511008B9904 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 537MQ42B4F;
+				INFOPLIST_FILE = FunTV/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = fr.sii.FunTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		C24AFDA01EEA9511008B9904 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 537MQ42B4F;
+				INFOPLIST_FILE = FunTV/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = fr.sii.FunTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C24AFD8D1EEA9511008B9904 /* Build configuration list for PBXProject "FunTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C24AFD9C1EEA9511008B9904 /* Debug */,
+				C24AFD9D1EEA9511008B9904 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C24AFD9E1EEA9511008B9904 /* Build configuration list for PBXNativeTarget "FunTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C24AFD9F1EEA9511008B9904 /* Debug */,
+				C24AFDA01EEA9511008B9904 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C24AFD8A1EEA9511008B9904 /* Project object */;
+}

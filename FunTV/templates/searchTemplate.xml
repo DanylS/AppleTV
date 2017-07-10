@@ -1,0 +1,26 @@
+<document>
+   <searchTemplate>
+      <searchField />
+      <collectionList>
+      <shelf>
+         <header>
+            <title>Popular</title>
+         </header>
+         <section>
+            <lockup onselect="getDocument('templates/stuffTemplate.xml')">
+               <img src="Enter path to images/images/Beach_Movie_HiRes/Beach_Movie_250x375_A.png" width="182" height="274" />
+               <title>Surf</title>
+            </lockup>
+            <lockup onselect="getDocument('templates/stuffTemplate.xml')">
+               <img src="Enter path to images/images/Beach_Movie_HiRes/Beach_Movie_250x375_B.png" width="182" height="274" />
+               <title>Sand</title>
+            </lockup>
+            <lockup onselect="getDocument('templates/stuffTemplate.xml')">
+               <img src="Enter path to images/images/Beach_Movie_HiRes/Beach_Movie_250x375_C.png" width="182" height="274" />
+               <title>Fun</title>
+            </lockup>
+         </section>
+      </shelf>
+      </collectionList>
+   </searchTemplate>
+</document>

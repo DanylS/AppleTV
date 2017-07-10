@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<stackTemplate>
+		<banner>
+			<title>${product}</title>
+		</banner>
+		<collectionList>
+			<grid>
+				<section>
+					<lockup onclick="testXml()">
+						<img src="http://www.sii.fr/pfw_files/cma/logos/logo.png" width="200" height="131" />
+						<title>Logo</title>
+					</lockup>
+				</section>
+			</grid>
+		</collectionList>
+	</stackTemplate>
+</document>
